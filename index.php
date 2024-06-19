@@ -22,7 +22,8 @@ echo "La suma de $x + $y =". $x + $y ."<br>";
 echo "La resta de $x - $y =". $x - $y ."<br>";
 echo "La division de $x / $y =". $x / $y ."<br>";
 echo "La multiplicacion de $x * $y =". $x * $y ."<br>";
-echo "La exponenciacion de $x ** $y =". $x ** $y ."<br><br>";
+echo "La exponenciacion de $x ** $y =". $x ** $y ."<br>";
+echo "Un numero aleatorio ". rand() . "<br><br>";
 ?>
 
 <!DOCTYPE html>
